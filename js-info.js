@@ -1,0 +1,5 @@
+alert("Брендан Эйх")
+alert("6 месяцев")
+alert("1995")
+alert("JavaScript - это не Java")
+alert("ECMAScript")
